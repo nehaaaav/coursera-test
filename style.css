@@ -4,25 +4,28 @@
 .heading{
     text-align: center;
 }
+.container{
+    margin: 20px;
+}
 .menu{
     width: 100%;
 }
 #firstbox{
-    background-color: aqua;
+    background-color: lightgray;
     border: 2px solid black;
     padding: 20px;
     margin: 10px;
     position: relative;
 }
 #secondbox{
-    background-color: greenyellow;
+    background-color: lightgray;
     border: 2px solid rgb(3, 3, 3);
     padding: 20px;
     margin: 10px;
     position: relative;
 }
 #thirdbox{
-    background-color: rgb(243, 167, 205);
+    background-color: lightgray;
     border: 2px solid black;
     padding: 20px;
     margin: 10px;
@@ -35,7 +38,7 @@
     text-align: center;
     margin-block-start: 0;
     margin-block-end: 0;
-    background-color: lemonchiffon;
+    background-color: orange;
     border: 2px solid black;
 }
 .topic-content{
